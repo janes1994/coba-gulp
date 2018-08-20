@@ -1,0 +1,9 @@
+body {
+  background: red; }
+
+section ul {
+  list-style: none;
+  text-align: center;
+  display: flex; }
+  section ul li {
+    color: white; }

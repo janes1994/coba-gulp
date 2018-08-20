@@ -1,0 +1,1 @@
+console.log("tes1"),console.log(2),console.log("file 2"),alert("File 2");

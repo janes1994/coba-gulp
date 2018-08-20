@@ -1,0 +1,16 @@
+$bgColor: red;
+
+body{
+    background: $bgColor;
+}
+
+section {
+    ul {
+        list-style: none;
+        text-align: center;
+        display: flex;
+        li {
+            color: white;
+        }
+    }
+}
